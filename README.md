@@ -4,6 +4,7 @@
 
 ### Purpose
 
+This project is looking at creating a neural network model which will help by predicting whether applicants will be successful if funded by Alphabet Soup. 
 
 ## Results
 
@@ -22,6 +23,20 @@ The features variables are the "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATIO
 - What variable(s) are neither targets nor features, and should be removed from the input data?
 
 The variable that are not considered targets or features are the "EIN","NAME" columns
+
+## Compiling, Training, and Evaluating the Model
+
+- How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
+
+
+- Were you able to achieve the target model performance?
+
+
+
+- What steps did you take to try and increase model performance?
+
+
 
 
 ![](https://github.com/kbehyar/Neural_Network_Charity_Analysis/blob/main/Images/first%20sequential.PNG)
