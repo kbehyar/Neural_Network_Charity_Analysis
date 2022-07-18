@@ -35,3 +35,8 @@ The variable that are not considered targets or features are the "EIN","NAME" co
 ![](https://github.com/kbehyar/Neural_Network_Charity_Analysis/blob/main/Images/optimization%20accuracy.PNG)
 
 ![](https://github.com/kbehyar/Neural_Network_Charity_Analysis/blob/main/Images/optimization%20graph.PNG)
+
+
+
+
+### Summary
